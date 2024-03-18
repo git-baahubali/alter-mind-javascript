@@ -5,10 +5,9 @@ backend/node_modules/
 dist/
 
 # Ignore environment-specific files
-.env
-.env.local
-.env.*.local
-.env.dev
+# .env
+# .env.local
+# .env.*.local
 
 # Ignore log files
 *.log
